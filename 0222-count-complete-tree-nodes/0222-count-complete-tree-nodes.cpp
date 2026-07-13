@@ -1,0 +1,17 @@
+class Solution {
+public:
+    void inorder(TreeNode* root, int &count){
+        if(root == nullptr)
+            return;
+
+        inorder(root->left, count);
+        count++;
+        inorder(root->right, count);
+    }
+
+    int countNodes(TreeNode* root) {
+        int count = 0;
+        inorder(root, count);
+        return count;
+    }
+};
