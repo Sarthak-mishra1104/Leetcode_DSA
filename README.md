@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0968-binary-tree-cameras](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0968-binary-tree-cameras) |
 ## Greedy
 |  |
 | ------- |
@@ -25,8 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0968-binary-tree-cameras](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0968-binary-tree-cameras](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0968-binary-tree-cameras) |
+## Depth-First Search
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
