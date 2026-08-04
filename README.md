@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Dynamic Programming
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sarthak-mishra1104/Leetcode_DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
